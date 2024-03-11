@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "year": 1997,
+      "isbn": "978-1612680194"
+    },
+    {
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "year": 1937,
+      "isbn": "978-1612680195"
+    },
+    {
+      "title": "Zero to One",
+      "author": "Peter Thiel, Blake Masters",
+      "year": 2014,
+      "isbn": "978-1612680196"
+    }
+  ]
+}
