@@ -1,0 +1,20 @@
+<library>
+  <book>
+    <title>Rich Dad Poor Dad</title>
+    <author>Robert Kiyosaki</author>
+    <year>1997</year>
+    <isbn>978-1612680194</isbn>
+  </book>
+  <book>
+    <title>Think and Grow Rich</title>
+    <author>Napoleon Hill</author>
+    <year>1937</year>
+    <isbn>978-1612680195</isbn>
+  </book>
+  <book>
+    <title>Zero to One</title>
+    <author>Peter Thiel, Blake Masters</author>
+    <year>2014</year>
+    <isbn>978-1612680196</isbn>
+  </book>
+</library>
